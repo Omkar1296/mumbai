@@ -7,7 +7,7 @@ public static void main (String []args)
 System.out.println("Adding details of employee");
 Scanner sc=new Scanner(System.in);
 System.out.println("Enter name of Employee");
-String name=sc.nextline();
+String name=sc.nextLine();
 System.out.println("Enter Employee ID Number");
 int emp_id=sc.nextInt();
 
