@@ -31,7 +31,7 @@ int sid=sc.nextInt();
 
 System.out.println("Student name is: "+sname);
 System.out.println("Student id is: "+sid);
-}\
+}
 }
 
 updation is done.
