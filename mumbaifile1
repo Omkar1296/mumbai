@@ -23,7 +23,7 @@ class StudentDetails
 public static void main(String []args)
 {
 System.out.println("Enter Student Details");
-Scanner Sc=new Scanner(System.in);
+Scanner sc=new Scanner(System.in);
 System.out.println("Enter Student Name");
 String sname=sc.nextLine();
 System.out.println("Enter Student ID Number");
