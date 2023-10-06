@@ -1,0 +1,24 @@
+class palindrome
+{
+public static void main(String[]args)
+{
+int n=786;
+int m=n;
+int sum=0;
+while(n!=0)
+{
+int rem=n%10;
+int sum=(sum*10)+rem;
+n/10;
+}
+if (sum==m)
+{
+System.out.println(m+" Number is Palindrome");
+}
+else
+{
+System.out.println(m+" Number is not  Palindrome");
+}
+}
+}
+ 
